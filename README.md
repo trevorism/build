@@ -6,4 +6,15 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/trevorism/build)
 
 
-API for building projects over HTTPS
+API for deploying projects over HTTPS
+
+* List dependencies
+  * Alert when dependency is out-of-date
+* Manage destinations for applications
+* Create versioned releases
+  * Release notes
+* Store artifacts
+* Invoke deployments
+* Rollbacks
+* Feature toggles allocating traffic to new versions
+* Wrap Jenkins
