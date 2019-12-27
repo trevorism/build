@@ -59,7 +59,7 @@ dependencies {
 
 appengine {
     deploy {
-        projectId = "trevorism-build"
+        projectId = "trevorism-build-263320"
         stopPreviousVersion = true
         promote = true
         version = "0-0-1"
